@@ -1,0 +1,5 @@
+www is: World Wide Web
+
+What is web: The Web is the common name for the World Wide Web, a subset of the Internet consisting of the pages that can be accessed by a Web browser.
+
+URL: A Uniform Resource Locator, colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it.
