@@ -24,14 +24,15 @@ Zend Engine v4.1.10, Copyright (c) Zend Technologies
 - **For Windows users**: You can open the app as an executable application:
   - Create a shortcut with the path `php.exe -f path\to\app.php`:
   <img src=".private/create-shortcut-1.jpg" height="400" alt="create a shortcut" title="create a shortcut"/>
+  
   - Save it as `tips-blender.bat`, and pin the shortcut into the taskbar or start menu: <img src=".private/create-shortcut-3.jpg" width="50"/>
 - The app supports only `.txt` files.
 - Enter your notes line by line as shown in the samples inside `tips` directory.
-- Empty lines will not be shown inside the CLI.
+- Empty lines will be ignored inside the CLI.
 
 # To Do
 - Analyze the current tip:
   - **Memory Recall**: Hide part of the tip and show it after pressing Enter.
-  - If it has an image or executable app and opens/execute them.
+  - If it has an image or executable app, open/execute it!
 - Create **Unit Testing** for the functions.
-- Add more controls/flags to activate/deactivate features.
+- Add more controls/flags to activate/deactivate some features.
