@@ -2,6 +2,8 @@
 ![about the tips blender app](.private/what-is-tips-blender.png "The idea of tips blender")
 This is a simple PHP command line app to read and show random tips from a set of text files found inside the `tips` directory, line by line, by pressing `Enter` key!
 
+<img src=".private/screenshot-1.jpg" height="300" title="screenshot" alt="screenshot" />
+
 Because I'm learning many things at the same time, I need to show on a separated screen the most important information as simple notes or "tips" to be randomly shown to me while watching a movie, YouTube video, or playing video games.
 
 # Installation
